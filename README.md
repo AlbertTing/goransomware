@@ -149,7 +149,7 @@ If the payment is made, the process will automatically decrypt the files and exi
 nohup ./rsw-client -encrypt . -installWP -waitForCC -poll 600 -debug &
 ```
 
-## Possible improvments
+## Possible improvements
 
 * Replace the tor client with an online tor proxy service (tor2webproject ?) for portability
 * Use compressed public address to win space on the client
